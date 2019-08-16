@@ -1,0 +1,29 @@
+{
+    "file-type": "csv",
+    "date-format": "mm/dd/YYYY",
+    "has-headers": false,
+    "delimiter": ",",
+    "apply-rules": false,
+    "specifics": [],
+    "import-account": 1,
+    "column-count": 7,
+    "column-roles": [
+        "internal-reference",
+        "_ignore",
+        "date-transaction",
+        "_ignore",
+        "description",
+        "_ignore",
+        "amount"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+
+}
